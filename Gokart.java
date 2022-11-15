@@ -20,8 +20,8 @@ public class Gokart implements RacingCar {
     }
 
     public void showinfo(){
-        System.out.println("Brand"+carbrand);
-        System.out.println("TiresSize"+tiressize);
+        System.out.println("Brand:"+" "+carbrand);
+        System.out.println("TiresSize:"+" "+tiressize);
     }
 
     
